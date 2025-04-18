@@ -162,4 +162,6 @@ function M.setup(opts)
     }
 end
 
+M.palette = palette
+
 return M
